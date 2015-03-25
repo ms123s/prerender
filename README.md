@@ -1,3 +1,8 @@
+###prerender service for [Polymer](https://www.polymer-project.org)
+Condition is phanton 2.0.
+In the "bin" directory is a binary for linux 64bit, compiled on debian testing.
+
+copy this source in the docker source tree and compile. 
 Prerender Service [![Stories in Ready](https://badge.waffle.io/prerender/prerender.png?label=ready&title=Ready)](https://waffle.io/prerender/prerender)
 ===========================
 
